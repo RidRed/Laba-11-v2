@@ -1,0 +1,13 @@
+.Main
+{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+.Sec
+{
+    display:inline-block;
+    
+    justify-content: left;
+    margin-top: 10px;
+}
